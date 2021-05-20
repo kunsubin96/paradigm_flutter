@@ -1,0 +1,29 @@
+{
+  "login":"Đăng nhập",
+  "logout":"Đăng xuất",
+  "settings":"Cài đặt",
+  "send_feedback":"Gửi phản hồi",
+  "about":"Thông tin",
+
+  "january": "Tháng giêng",
+  "february": "Tháng hai",
+  "march": "Tháng ba",
+  "april": "Tháng tư",
+  "may": "Tháng năm",
+  "june": "Tháng sáu",
+  "july": "Tháng bảy",
+  "august": "Tháng tám",
+  "september": "Tháng chín",
+  "october": "Tháng mười",
+  "november": "Tháng 11",
+  "december": "Tháng 12",
+
+  "language":"Ngôn ngữ",
+  "information":"Thông tin",
+  "version":"Phiên bản",
+  "choose_language":"Chọn ngôn ngữ",
+
+  "enter_username":"Nhập username",
+  "enter_password":"Nhập mật khẩu",
+  "login_fail":"Đăng nhập thất bại"
+}

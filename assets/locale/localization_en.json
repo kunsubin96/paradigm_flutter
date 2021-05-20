@@ -1,0 +1,30 @@
+{
+  "login": "Login",
+  "logout": "Logout",
+  "settings": "Settings",
+  "send_feedback": "Send feedback",
+  "about": "About",
+
+  "january": "January",
+  "february": "February",
+  "march": "March",
+  "april": "April",
+  "may": "May",
+  "june": "June",
+  "july": "July",
+  "august": "August",
+  "september": "September",
+  "october": "October",
+  "november": "November",
+  "december": "December",
+
+  "language": "Language",
+  "information": "Information",
+  "version": "Version",
+  "choose_language": "Choose language",
+
+  "enter_username":"Enter username",
+  "enter_password":"Enter password",
+  "login_fail":"Login failure"
+ 
+}
